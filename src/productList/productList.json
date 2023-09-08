@@ -1,0 +1,1632 @@
+[
+  {
+    "Pcode": "LS",
+    "Item_Name": "Liquid Soap (Lisapol)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "DWG",
+    "Item_Name": "Dishwash Gel",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TE",
+    "Item_Name": "Teepol (Multi Cleaner Liquid)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HC",
+    "Item_Name": "Hand Care Liquid",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HCG",
+    "Item_Name": "Hand Care Gel",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HCG250",
+    "Item_Name": "Hand Care Gel (250 ml)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HCD",
+    "Item_Name": "Hand Care Liquid (Dettol)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "MD",
+    "Item_Name": "Matic Detergent Liquid",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "FS",
+    "Item_Name": "Floor Shampoo Liquid",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GC",
+    "Item_Name": "Glass Care Liquid",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GC500",
+    "Item_Name": "Glass Care Liquid (500 ml)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "FC",
+    "Item_Name": "Floor Care Liquid",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "FCR2",
+    "Item_Name": "Floor Care Liquid (R-2)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "FC500",
+    "Item_Name": "Floor Care Liquid (500 ml)",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "UP",
+    "Item_Name": "Universal Polish",
+    "HSN": 3402,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "BL",
+    "Item_Name": "Body Lotion",
+    "HSN": 3305,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "SG",
+    "Item_Name": "Shower Gel",
+    "HSN": 3305,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "S",
+    "Item_Name": "Shampoo",
+    "HSN": 3305,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "NP",
+    "Item_Name": "Neem Phenoil",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "RP",
+    "Item_Name": "Rose Phenoil",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "WP",
+    "Item_Name": "White Power Phenoil",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "BPP",
+    "Item_Name": "Black Power Phenoil",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "BPP500",
+    "Item_Name": "Black Power Phenoil (500 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PC",
+    "Item_Name": "Phenoil Concentrate",
+    "HSN": 2921,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PC500",
+    "Item_Name": "Phenoil Concentrate (500 ml)",
+    "HSN": 2921,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PC200",
+    "Item_Name": "Phenoil Concentrate (200 ml)",
+    "HSN": 2921,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PC100",
+    "Item_Name": "Phenoil Concentrate (100 ml)",
+    "HSN": 2921,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TC",
+    "Item_Name": "Toilet Cleaner Liquid",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TC500",
+    "Item_Name": "Toilet Cleaner Liquid (500 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TC750",
+    "Item_Name": "Toilet Cleaner Liquid (750 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TAPC",
+    "Item_Name": "Tap Cleaner",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TAPC200",
+    "Item_Name": "Tap Cleaner (200 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "TIC",
+    "Item_Name": "Floor Tile Cleaner",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "BC500",
+    "Item_Name": "Bathroom Cleaner (500 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HR",
+    "Item_Name": "Hand Rub Liquid",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HR500",
+    "Item_Name": "Hand Rub Liquid (500 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HR200",
+    "Item_Name": "Hand Rub Liquid (200 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HR100",
+    "Item_Name": "Hand Rub Liquid (100 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HRG",
+    "Item_Name": "Hand Rub Gel",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HRG500",
+    "Item_Name": "Hand Rub Gel (500 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HRG200",
+    "Item_Name": "Hand Rub Gel (200 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HRG100",
+    "Item_Name": "Hand Rub Gel (100 ml)",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "AF",
+    "Item_Name": "Air Freshener (Pure)",
+    "HSN": 3307,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "AF200",
+    "Item_Name": "Air Freshener (Pure) (200 ml)",
+    "HSN": 3307,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "AFW",
+    "Item_Name": "Air Freshener (Water Base)",
+    "HSN": 3307,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "HCL",
+    "Item_Name": "HCL",
+    "HSN": 2806,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LGAO",
+    "Item_Name": "Lemon Grass Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LGAO500",
+    "Item_Name": "Lemon Grass Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LGAO200",
+    "Item_Name": "Lemon Grass Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LGAO100",
+    "Item_Name": "Lemon Grass Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LAO",
+    "Item_Name": "Lotus Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LAO500",
+    "Item_Name": "Lotus Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LAO200",
+    "Item_Name": "Lotus Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LAO00",
+    "Item_Name": "Lotus Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LVAO",
+    "Item_Name": "Lavender Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LVAO500",
+    "Item_Name": "Lavender Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LVAO200",
+    "Item_Name": "Lavender Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LVAO100",
+    "Item_Name": "Lavender Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PAO",
+    "Item_Name": "Peach Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PAO500",
+    "Item_Name": "Peach Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PAO200",
+    "Item_Name": "Peach Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "PAO100",
+    "Item_Name": "Peach Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "WAO",
+    "Item_Name": "Wildstone Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "WAO500",
+    "Item_Name": "Wildstone Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "WAO200",
+    "Item_Name": "Wildstone Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "WAO100",
+    "Item_Name": "Wildstone Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "IAO",
+    "Item_Name": "Impression Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "IAO500",
+    "Item_Name": "Impression Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "IAO200",
+    "Item_Name": "Impression Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "IAO100",
+    "Item_Name": "Impression Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GAO",
+    "Item_Name": "Golden Eye Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GAO500",
+    "Item_Name": "Golden Eye Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GAO200",
+    "Item_Name": "Golden Eye Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "GAO100",
+    "Item_Name": "Golden Eye Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "RAO",
+    "Item_Name": "Rose Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "RAO500",
+    "Item_Name": "Rose Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "RAO200",
+    "Item_Name": "Rose Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "RAO100",
+    "Item_Name": "Rose Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LIAO",
+    "Item_Name": "Lily Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LIAO500",
+    "Item_Name": "Lily Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LIAO200",
+    "Item_Name": "Lily Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "LIAO100",
+    "Item_Name": "Lily Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "CAO",
+    "Item_Name": "Coffee Aroma Oil",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ltr",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "CAO500",
+    "Item_Name": "Coffee Aroma Oil (500 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "CAO200",
+    "Item_Name": "Coffee Aroma Oil (200 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "CAO100",
+    "Item_Name": "Coffee Aroma Oil (100 ml)",
+    "HSN": 3302,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Chemical"
+  },
+  {
+    "Pcode": "OD",
+    "Item_Name": "Oil Diffusers & Burners",
+    "HSN": 6912,
+    "SGST": 0.06,
+    "CGST": 0.06,
+    "IGST": 0.12,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "CS",
+    "Item_Name": "Caustic Soda",
+    "HSN": 2815,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SS",
+    "Item_Name": "Sodium Sulphate",
+    "HSN": 2833,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HB",
+    "Item_Name": "Hard Broom",
+    "HSN": 9603,
+    "SGST": 0,
+    "CGST": 0,
+    "IGST": 0,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SB",
+    "Item_Name": "Soft Broom",
+    "HSN": 9603,
+    "SGST": 0,
+    "CGST": 0,
+    "IGST": 0,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "WT",
+    "Item_Name": "Wringer Trolley",
+    "HSN": 3924,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BP",
+    "Item_Name": "Buffing pads",
+    "HSN": 6805,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SD",
+    "Item_Name": "Soap Dispenser",
+    "HSN": 3924,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "WS",
+    "Item_Name": "Wiping Sheet",
+    "HSN": 5208,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "mtr",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "CP",
+    "Item_Name": "Colgate Paste",
+    "HSN": 3306,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "H",
+    "Item_Name": "Humidifier",
+    "HSN": 8421,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HWSP",
+    "Item_Name": "Handwash Spray Pump",
+    "HSN": 8424,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SP",
+    "Item_Name": "Spray Pump",
+    "HSN": 8424,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SL",
+    "Item_Name": "Solvent Liquid",
+    "HSN": 3814,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SA",
+    "Item_Name": "Soda Ash",
+    "HSN": 2836,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "VK",
+    "Item_Name": "Vanity Kit",
+    "HSN": 8214,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HO",
+    "Item_Name": "Hair Oil",
+    "HSN": 3305,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "ml",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BTP",
+    "Item_Name": "Body Talcum Powder",
+    "HSN": 3304,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "gms",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "UC",
+    "Item_Name": "Urinal Dabur Cubes",
+    "HSN": 3307,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "UCC",
+    "Item_Name": "Urinal Colored Cubes",
+    "HSN": 3307,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "UM",
+    "Item_Name": "Urinal Mats",
+    "HSN": 3924,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "UPG",
+    "Item_Name": "Urinal Phenol Goli",
+    "HSN": 2707,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "O",
+    "Item_Name": "Odonil (4pc Pack)",
+    "HSN": 3303,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "AP",
+    "Item_Name": "Air Pocket (Pour)",
+    "HSN": 3303,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TOB",
+    "Item_Name": "Toilet Brush",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FLC",
+    "Item_Name": "Flushmatic Cubes",
+    "HSN": 7323,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TLB",
+    "Item_Name": "Tile Brush",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "CB",
+    "Item_Name": "Carpet Brush",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SL",
+    "Item_Name": "Slippers Regular for Rooms",
+    "HSN": 6404,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "DK",
+    "Item_Name": "Dental Kit",
+    "HSN": 9018,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SC",
+    "Item_Name": "Shower Cap",
+    "HSN": 3923,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "PC",
+    "Item_Name": "Plastic Comb",
+    "HSN": 9605,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SK",
+    "Item_Name": "Sewing Kit",
+    "HSN": 9605,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FBDE",
+    "Item_Name": "Floor Big Duster (Extra Large)",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FBDL",
+    "Item_Name": "Floor Big Duster (Large)",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FMD",
+    "Item_Name": "Floor Medium Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FSD",
+    "Item_Name": "Floor Small Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HBD",
+    "Item_Name": "Hand Big Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HSD",
+    "Item_Name": "Hand Small Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "YD",
+    "Item_Name": "Yellow Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TD",
+    "Item_Name": "Towel Duster",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SS",
+    "Item_Name": "Steel Scrubber",
+    "HSN": 7323,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SBS",
+    "Item_Name": "Scotch Brite Scrubbers",
+    "HSN": 7323,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "WW",
+    "Item_Name": "Wonder Wipes (5pc Pack)",
+    "HSN": 3921,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "KW",
+    "Item_Name": "Kitchen Wiper",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FMW",
+    "Item_Name": "Floor Medium Wiper",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "FBW",
+    "Item_Name": "Floor Big Wiper",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "WMS",
+    "Item_Name": "Wet Mop Set",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "MBS",
+    "Item_Name": "Mop Bucket Set",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "DMS",
+    "Item_Name": "Dry Mop Set",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BGB",
+    "Item_Name": "Big Garbage Bag",
+    "HSN": 3923,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SGB",
+    "Item_Name": "Small Garbage Bag",
+    "HSN": 3923,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "DP",
+    "Item_Name": "Dust Pan",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "DPR",
+    "Item_Name": "Dust Pan with Rods",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HRS",
+    "Item_Name": "12 gm Hotel Room Soap",
+    "HSN": 3401,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TR",
+    "Item_Name": "Toilet Rolls",
+    "HSN": 4818,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "MF",
+    "Item_Name": "M Fold Tissues",
+    "HSN": 4823,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "case",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "LF",
+    "Item_Name": "L Fold Tissues",
+    "HSN": 4823,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "case",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TIS",
+    "Item_Name": "2 Ply Tissues",
+    "HSN": 4802,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SSD",
+    "Item_Name": "Small Spray Dispenser",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BSD",
+    "Item_Name": "Big Spray Dispenser",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "NC",
+    "Item_Name": "Net Caps",
+    "HSN": 3923,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "CW",
+    "Item_Name": "Cling Wraps",
+    "HSN": 3920,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SURF",
+    "Item_Name": "Surf",
+    "HSN": 3401,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "kg",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "GW",
+    "Item_Name": "Glass Wiper",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "GWU25",
+    "Item_Name": "Glass Wiper (Unger Co.) 25cms.",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "GWU35",
+    "Item_Name": "Glass Wiper (Unger Co.) 35cms.",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "AWP",
+    "Item_Name": "Apron Water Proof",
+    "HSN": 3926,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BM",
+    "Item_Name": "Bucket Mops",
+    "HSN": 9603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "TLC",
+    "Item_Name": "Tee Light Candles",
+    "HSN": 3406,
+    "SGST": 0.06,
+    "CGST": 0.06,
+    "IGST": 0.12,
+    "per": "pkt",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "SSTR",
+    "Item_Name": "Small Straws",
+    "HSN": 4823,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pkt",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "BSTR",
+    "Item_Name": "Big Straws",
+    "HSN": 4823,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pkt",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "MFC",
+    "Item_Name": "Micro Fiber Cloth",
+    "HSN": 6307,
+    "SGST": 0.025,
+    "CGST": 0.025,
+    "IGST": 0.05,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "NO1",
+    "Item_Name": "Godrej No.1 Toilet Soap",
+    "HSN": 3401,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "set",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "MASK",
+    "Item_Name": "Mask",
+    "HSN": 5603,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pkt",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "PCC",
+    "Item_Name": "Paper Chef Cap",
+    "HSN": 9505,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  },
+  {
+    "Pcode": "HIT",
+    "Item_Name": "HIT Spray",
+    "HSN": 3808,
+    "SGST": 0.09,
+    "CGST": 0.09,
+    "IGST": 0.18,
+    "per": "pcs",
+    "Category": "Non Chemical"
+  }
+]

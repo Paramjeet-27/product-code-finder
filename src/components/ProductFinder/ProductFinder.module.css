@@ -1,0 +1,33 @@
+.table {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ipBox {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  width: 60%;
+  height: 2rem;
+  margin-bottom: 2%;
+}
+
+.column1 {
+  font-size: 16pt;
+  padding: 0.3rem 0rem;
+  width: 8%;
+}
+.column2 {
+  font-size: 16pt;
+  padding: 0.3rem 0rem;
+  width: 25%;
+}
+.column3 {
+  font-size: 16pt;
+  padding: 0.3rem 0rem;
+  width: 5%;
+}
+.column4 {
+  font-size: 16pt;
+  padding: 0.3rem 0rem;
+  width: 10%;
+}
